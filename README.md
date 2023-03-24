@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @maliackgoz
+👋 Hi, I’m @maliackgoz
 
-https://www.linkedin.com/in/muhammedaliacikgoz
+@[LinkedIn](https://www.linkedin.com/in/muhammedaliacikgoz)
