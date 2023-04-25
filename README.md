@@ -1,6 +1,6 @@
 # Hello there👋, I'm maliackgoz!
 
-Welcome to my Github profile. I'm a computer engineering student. I am an avid learner and enjoy exploring new technologies, tools and frameworks. I love coding and enjoy building things from scratch.
+Welcome to my Github profile. I'm a computer engineering student who is an avid learner and enjoy exploring new technologies, tools and frameworks. I love coding and enjoy building things from scratch.
 
 ## About Me
 
