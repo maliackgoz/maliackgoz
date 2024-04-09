@@ -1,4 +1,4 @@
-# Hello there👋, I'm maliackgoz!
+# Hi, I'm Ali!
 
 Welcome to my Github profile. I'm a computer engineering student who is an avid learner and enjoy exploring new technologies, tools and frameworks.
 
